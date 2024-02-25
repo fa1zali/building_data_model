@@ -6,7 +6,7 @@
 
 ### Description
 
-For this project, we will be building a data model programatically using Python on PostgreSQL and load data onto it.
+For this project, we will be building a data model programatically using Python on PostgreSQL and load data onto it using Pandas.
 
 ### Files used
 We used the following dataset to work on this project:
